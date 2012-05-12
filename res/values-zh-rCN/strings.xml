@@ -104,10 +104,10 @@
     <string name="toggleSync">数据同步</string>
     <string name="toggle2g3g">2G/3G</string>
     <string name="toggleSound">铃声模式</string>
-    <string name="toggleBrightness">明亮</string>
-    <string name="toggleAutoRotate">适应</string>
+    <string name="toggleBrightness">亮度</string>
+    <string name="toggleAutoRotate">自动旋转</string>
     <string name="toggleScreenTimeout">屏幕超时</string>
-    <string name="toggleAirplane">飞行</string>
+    <string name="toggleAirplane">飞行模式</string>
     <string name="toggleFlashlight">手电筒</string>
     <string name="toggleLockScreen">锁屏</string>
     <string name="toggleWimax">WiMAX</string>
@@ -185,7 +185,7 @@
     <string name="battery_info_health_good" msgid="8070356565806711806">"正常"</string>
     <string name="battery_info_health_overheat" msgid="8442959549291368806">"过热"</string>
     <string name="battery_info_health_dead" msgid="1725917445762829059">"没电"</string>
-    <string name="battery_info_health_over_voltage" msgid="2420269351664490121">"过电压"</string>
+    <string name="battery_info_health_over_voltage" msgid="2420269351664490121">"电压过高"</string>
     <string name="battery_info_health_unspecified_failure" msgid="6347021103185471590">"未知错误"</string>
     <string name="battery_info_health_cold" msgid="3835692786176707318">"电量低"</string>
     <string name="bluetooth" msgid="5549625000628014477">"蓝牙"</string>
